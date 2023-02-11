@@ -6,7 +6,7 @@ A Connect Four game built with Python and Pygame. The game allows the player to 
 
 1. Install Python and Pygame.
 2. Clone the repository.
-3. Run the file "connect_four.py".
+3. Run the file "main.py".
 4. Use the mouse to select the column you want to drop your piece in.
 5. The game ends when a player gets four pieces in a row either horizontally, vertically, or diagonally.
 
