@@ -24,6 +24,6 @@ The implementation of the Minimax algorithm can be found in the main.py file, wh
 
 This project is open for contributions. If you have an idea for a new feature or a bug fix, feel free to create a pull request.
 
-#License:
+# License:
 
 This project is licensed under the MIT License. See the LICENSE file for details
