@@ -26,4 +26,4 @@ This project is open for contributions. If you have an idea for a new feature or
 
 #License:
 
-This project is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice in any copy of the software/source.
+This project is licensed under the MIT License. See the LICENSE file for details
